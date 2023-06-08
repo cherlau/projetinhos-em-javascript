@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+    background-image: url(https://frigorificoarvoredo.com.br/blog/wp-content/uploads/2021/09/dicas-churrasco-incr%C3%ADvel.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+.container {
+    font-family: 'Poppins', sans-serif;
+    max-width: 300px;
+    background-color: rgb(240, 129, 50);
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 10%;
+    font-weight: 500;
+}
+
+h1 {
+    margin: 0%;
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+button {
+    border: none;
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+
+}
+
+button:hover {
+    background-color: rgb(231, 226, 226);
+}
+
+label {
+    font-weight: 600;
+}
+
+#resultado {}
