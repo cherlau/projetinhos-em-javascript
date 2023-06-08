@@ -38,10 +38,11 @@ Coleção de projetos desenvolvidos em JavaScript, com o objetivo de aprimorar a
 
 O projeto é uma página simples que utiliza uma API para obter dados e inserir na página e também permite a inserção de novos dados para a API
 <p align="center">
-    <img src="./.github/assets/blog-posts.png" width="500px">
-    <img src="./.github/assets/blog-comentarios.png" width="500px">
+
 </p>
 ---
+
+
 
 ## ✒️ Autor
 
