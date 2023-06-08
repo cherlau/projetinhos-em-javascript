@@ -36,7 +36,7 @@ Coleção de projetos desenvolvidos em JavaScript, com o objetivo de aprimorar a
 
 <h2 id="tech">Uso de API</h2>
 
-O projeto é uma página simples que utiliza uma API para obter dados e inseri-los na página e também permite a inserção de novos dados para a API no form de comentários do post.
+O projeto é uma página simples que utiliza uma API para obter dados e inseri-los na página e também permite a inserção de novos dados para a API no formulário de comentários do post.
 
 <img src="./.github/assets/blog-posts.png" width="450px">
 <img src="./.github/assets/blog-comentarios.png" width="450px">
