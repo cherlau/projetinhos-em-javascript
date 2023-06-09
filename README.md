@@ -12,6 +12,13 @@
 
 Coleção de projetos desenvolvidos em JavaScript, com o objetivo de aprimorar as habilidades de lógica de programação e manipulação do DOM. Os projetos presentes aqui são exemplos simples, mas úteis, como calculadora de IMC, validação de CPF, Cronomêtro, entre outros.
 
+- [x] Página para calcular IMC
+- [x] Página para validar CPF
+- [x] Página com calculadora
+- [x] Página com cronomêtro
+- [x] Página do Churrascômetro
+- [x] Página de "posts" e comentários
+
 <h3 align="center">
 ⚙️ Tecnologias utilizadas
 
@@ -36,7 +43,7 @@ Coleção de projetos desenvolvidos em JavaScript, com o objetivo de aprimorar a
 
 <h2 id="tech">Uso de API</h2>
 
-O projeto é uma página simples que utiliza uma API para obter dados e inseri-los na página e também permite a inserção de novos dados para a API no formulário de comentários do post.
+O projeto é uma página simples de "posts" que utiliza uma API para obter dados (posts) que a API retorna e inseri-los na página e também permite a inserção de novos dados (comentários do post) a API no formulário de comentários de cada post.
 
 <img src="./.github/assets/blog-posts.png" width="450px">
 <img src="./.github/assets/blog-comentarios.png" width="450px">
