@@ -41,18 +41,21 @@ Coleção de projetos desenvolvidos em JavaScript, com o objetivo de aprimorar a
  <img src="./.github/assets/churrascometro.png" width="700px">
 </h3>
 
+<br>
 <h2 id="tech">Uso de API</h2>
 
 O projeto é uma página simples de "posts" que utiliza uma API para obter dados (posts) que a API retorna e inseri-los na página e também permite a inserção de novos dados (comentários do post) a API no formulário de comentários de cada post.
 
-<img src="./.github/assets/blog-posts.png" width="450px">
-<img src="./.github/assets/blog-comentarios.png" width="450px">
+<br>
+<div align="center">
+ <img src="./.github/assets/blog-posts.png" width="450px">
+ <img src="./.github/assets/blog-comentarios.png" width="450px">
+</div>
 
----
 
 ## ✒️ Autor
 
-| [<img src="https://avatars.githubusercontent.com/u/112346259?v=4" width=115 > <br> <sub> Cherlau Prado </sub>](https://github.com/cherPrado) |
+| [<img src="https://media.licdn.com/dms/image/D4D03AQE-voR1YRz31Q/profile-displayphoto-shrink_200_200/0/1700061191174?e=1708560000&v=beta&t=kPf9oHrVTwE7_jCoSI6iil8rYoHxzckhSEVdbe0F3KQ" width=115 > <br> <sub> Cherlau Prado </sub>](https://github.com/cherPrado) |
 | :--------------------------------------------------------------------------------------------------------------------------------------------: |
 
 <h2 >Entre em contato 🤙🏽</h2>
